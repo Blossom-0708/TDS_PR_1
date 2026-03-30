@@ -1,0 +1,7 @@
+{
+  "prompt": "Documentary photography style, wide cinematic frame. A vast barren landscape stretching to the horizon under a dull overcast sky. The ground is covered with hundreds of scattered worn-out shoes, different sizes and types, many separated from their pairs. Most shoes are alone, lying at irregular distances, creating a sense of absence and displacement. In the far distance, the shoes become sparse, fading into emptiness. No people visible anywhere. One small pair of children's shoes is placed in the foreground, slightly more in focus than the rest. Mood: profound loss, displacement, silence, loneliness. Color palette: desaturated greys, muted browns, dull blue tones, no bright colors. Composition: low-angle perspective with strong depth, foreground sharp and background fading into blur, large negative space toward the horizon. Absolutely no text, no letters, no numbers, no charts, no graphs, no symbols, no infographic elements.",
+  "model": "DALL-E 3",
+  "dataset_name": "UNHCR Global Trends: Forced Displacement",
+  "dataset_url": "https://www.unhcr.org/refugee-statistics/download/",
+  "insight": "By 2023, 1 in 74 people globally has been forcibly displaced — the highest ever recorded."
+}
